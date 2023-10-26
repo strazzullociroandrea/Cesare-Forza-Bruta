@@ -1,0 +1,2 @@
+Il file probabilmente corretto, basandomi sui dati recuperati dal web e dai file generati 
+durante la decrittazione del file crittato è: 'decritta0.txt' .
